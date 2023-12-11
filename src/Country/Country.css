@@ -1,0 +1,22 @@
+.country{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid turquoise;
+    border-radius: 50px;
+    text-align: center;
+}
+.visited{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid turquoise;
+    border-radius: 50px;
+    text-align: center;
+    background-color: antiquewhite;
+    color: black;
+}
